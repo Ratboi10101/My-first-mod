@@ -2,6 +2,6 @@
     {
         "name": "The Almighty, One and Only",
         "type": "Pantheon",
-        "uniques": ["[+4 Faith] from every [2] global followers [in all cities]","[+1 Happiness] [in cities following this religion] <in cities with at least [3] [Population]>"]
+        "uniques": ["[+4 Faith] from every [2] global followers","[+1 Happiness] [in cities following this religion] <in cities with at least [3] [Population]>"]
     }
 ]
