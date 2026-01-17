@@ -3,35 +3,33 @@
 		"name": "Angels",
 		"leaderName": "Gabriel the Archangel",
 		"adjective": ["Angel"],
-		"preferredVictoryType": "Religious",
+		"preferredVictoryType": Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We must bring salvation to this world.",
+		"startIntroPart2": "For our almighty lord!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "We are not here to destroy, but to bring you salvation.",
+		"attacked": "Even the lord cannot forgive your act.",
+		"defeated": ["You.. You FILTHY DEMONS! THIS IS NOT THE END!","Forgive me my lord, for failing to defeat the evil spirits..."],
+		"introduction": "Hello, a lost lamb.",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["Go ahead.","You may begin."],
+		"neutralNo": ["I'm sorry, but we refuse.","No."],
+		"neutralYes": ["Wonderful.","Of course, yes.","Yes."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "You still have a chance to pay for your sins.",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": ["Not possible.","We refuse.","No. Never."],
+		"hateYes": ["Yes.","Wonderful.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "We knew that you are not truly evil.",
+		"tradeRequest": "We brought you some wonderful trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [255,255,255],
+		"innerColor": [51,153,255],
+		"uniqueName": "Heavenly Blessing",
+		"uniques": ["[+1 Faith] per [1] population [in all cities]","May choose [2] additional belief(s) of any type when [founding] a religion"],
+		"cities": ["Garden of Eden","Outpost Alpha","Outpost Beta","Outpost Gamma","Outpost Delta","Outpost Epsilon","Outpost Zeta","Outpost Eta","Outpost Theta","Outpost Lambda"]
 	}
 ]
