@@ -3,7 +3,7 @@
 		"name": "Angels",
 		"leaderName": "Gabriel the Archangel",
 		"adjective": ["Angel"],
-		"preferredVictoryType": Domination",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We must bring salvation to this world.",
 		"startIntroPart2": "For our almighty lord!",
