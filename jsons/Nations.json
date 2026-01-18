@@ -29,7 +29,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [49,146,243],
 		"uniqueName": "Heavenly Blessing",
-		"uniques": ["[+1 Faith] per [1] population [in all cities]","May choose [2] additional belief(s) of any type when [founding] a religion"],
+		"uniques": ["[+1 Faith] per [1] population [in all cities]","May choose [4] additional belief(s) of any type when [founding] a religion"],
 		"cities": ["Garden of Eden","Outpost Alpha","Outpost Beta","Outpost Gamma","Outpost Delta","Outpost Epsilon","Outpost Zeta","Outpost Eta","Outpost Theta","Outpost Lambda"]
 	}
 ]
